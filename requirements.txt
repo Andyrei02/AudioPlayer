@@ -1,0 +1,3 @@
+eyed3
+PyQt5
+pygame
